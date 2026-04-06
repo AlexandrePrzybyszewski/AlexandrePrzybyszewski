@@ -8,8 +8,8 @@ Olá, eu sou o Alexandre 👋
 Python
 Git e GitHub
 APIs (em aprendizado)
-📌 Projetos
 
+📌 Projetos
 🔹 Em breve...
 
 📫 Contato
