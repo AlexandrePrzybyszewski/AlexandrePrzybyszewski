@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá, eu sou o Alexandre 👋
 
-<!--
-**AlexandrePrzybyszewski/AlexandrePrzybyszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
+💻 Focado em Python, Backend e Inteligência Artificial
+🚀 Em busca de estágio na área de tecnologia
 
-Here are some ideas to get you started:
+🛠 Tecnologias
+Python
+Git e GitHub
+APIs (em aprendizado)
+📌 Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Em breve...
+
+📫 Contato
+LinkedIn: www.linkedin.com/in/alexandre-przybyszewski-bb8568383
